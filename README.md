@@ -33,8 +33,7 @@ Preprocess Data: Clean and preprocess the data using preprocess.py.
 Train Models: Train the collaborative filtering, content-based, and hybrid models using their respective scripts.
 Generate Recommendations: Use the main.py script to generate and display anime recommendations based on user input.
 Directory Structure
-plaintext
-Kodu kopyala
+
 anime_recommender/
 │
 ├── data_loader.py
